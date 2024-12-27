@@ -8,14 +8,6 @@ Neste repositório, você encontrará **modelos de IA**, como o **YOLO (You Only
 
 ![4870a8b6-9172-4075-8cc8-48c4f6f5d970](https://github.com/user-attachments/assets/92707cbe-878d-4960-8546-87f2ad96cc97)
 
-![_gua_mineral_crystal_sem_g_s_1_5l_1b34e845-8372-4013-a0d9-9cc858057447](https://github.com/user-attachments/assets/8d77208e-4954-4901-a317-a589427d906c)
-
-![videoframe_1034](https://github.com/user-attachments/assets/afe782a3-f966-4428-b6bd-daf92a903981)
-
-![373713-800-auto](https://github.com/user-attachments/assets/09aab1b3-b149-44f8-8355-03a56960f66f)
-
-![videoframe_2171](https://github.com/user-attachments/assets/6c25ce29-98c0-4eb3-a87c-6cac4a0cc770)
-
 ![chrome_BpuNGclGoW](https://github.com/user-attachments/assets/cf0a9e38-fc37-43b8-9d9f-59f21f4c3ad8)
 
 
@@ -52,6 +44,14 @@ https://github.com/user-attachments/assets/dc09106b-d24c-4987-b970-78ef8bae556d
 
 https://github.com/user-attachments/assets/bd8a89e6-c823-4e24-8a4b-fe544181dcff
 
+
+![_gua_mineral_crystal_sem_g_s_1_5l_1b34e845-8372-4013-a0d9-9cc858057447](https://github.com/user-attachments/assets/8d77208e-4954-4901-a317-a589427d906c)
+
+![videoframe_1034](https://github.com/user-attachments/assets/afe782a3-f966-4428-b6bd-daf92a903981)
+
+![373713-800-auto](https://github.com/user-attachments/assets/09aab1b3-b149-44f8-8355-03a56960f66f)
+
+![videoframe_2171](https://github.com/user-attachments/assets/6c25ce29-98c0-4eb3-a87c-6cac4a0cc770)
 
 ### **2. Reconhecimento e Contagem de Produtos**
 O modelo **YOLO** é ideal para **reconhecimento de produtos** em **estoques**, **contagem de itens** e **gestão de inventário**. Isso elimina a necessidade de contagens manuais e **aumenta a precisão** na gestão de estoques.
